@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0A28-1241
+
+ Directory of C:\Tools\git
+
+2018-10-01  11.32 PM    <DIR>          .
+2018-10-01  11.32 PM    <DIR>          ..
+2018-10-01  11.32 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  152,542,384,128 bytes free
